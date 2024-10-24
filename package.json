@@ -1,0 +1,25 @@
+{
+  "name": "first-boilerplate",
+  "version": "1.0.0",
+  "description": "Projeto base para as proximas aplicações em Node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luizricci/node-first-boilerplate.git"
+  },
+  "keywords": [
+    "node.js",
+    "boilerplate",
+    "senai",
+    "back-end"
+  ],
+  "author": "Luiz Henrique",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Luizricci/node-first-boilerplate/issues"
+  },
+  "homepage": "https://github.com/Luizricci/node-first-boilerplate#readme"
+}

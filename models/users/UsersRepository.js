@@ -17,7 +17,13 @@ addUser(name, email, password) {
     
     return newUser;
 }
-
+getUserById(id) {
+    const user = this.users.find((u) => u.id == id);
+    if (!user) {
+        return null;
+    }
+    return user;
+}
 }
 
 export default UsersRepository;
